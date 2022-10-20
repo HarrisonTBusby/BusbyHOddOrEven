@@ -1,15 +1,30 @@
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\bin\Debug\net6.0\HBusbyMiniChallenge6.exe
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\bin\Debug\net6.0\HBusbyMiniChallenge6.deps.json
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\bin\Debug\net6.0\HBusbyMiniChallenge6.runtimeconfig.json
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\bin\Debug\net6.0\HBusbyMiniChallenge6.dll
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\bin\Debug\net6.0\HBusbyMiniChallenge6.pdb
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.csproj.AssemblyReference.cache
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.AssemblyInfoInputs.cache
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.AssemblyInfo.cs
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.csproj.CoreCompileInputs.cache
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.dll
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\refint\HBusbyMiniChallenge6.dll
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.pdb
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\HBusbyMiniChallenge6.genruntimeconfig.cache
-C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge6\obj\Debug\net6.0\ref\HBusbyMiniChallenge6.dll
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/bin/Debug/net6.0/HBusbyMiniChallenge6.exe
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/bin/Debug/net6.0/HBusbyMiniChallenge6.deps.json
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/bin/Debug/net6.0/HBusbyMiniChallenge6.runtimeconfig.json
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/bin/Debug/net6.0/HBusbyMiniChallenge6.dll
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/bin/Debug/net6.0/HBusbyMiniChallenge6.pdb
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.csproj.AssemblyReference.cache
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.AssemblyInfoInputs.cache
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.AssemblyInfo.cs
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.csproj.CoreCompileInputs.cache
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.dll
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/refint/HBusbyMiniChallenge6.dll
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.pdb
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/HBusbyMiniChallenge6.genruntimeconfig.cache
+C:/Users/harry/OneDrive/Desktop/CodeStack Level 1/Day1AllCombineAssignements/HBusbyMiniChallenge6/obj/Debug/net6.0/ref/HBusbyMiniChallenge6.dll
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/bin/Debug/net6.0/HBusbyMiniChallenge6
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/bin/Debug/net6.0/HBusbyMiniChallenge6.deps.json
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/bin/Debug/net6.0/HBusbyMiniChallenge6.runtimeconfig.json
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/bin/Debug/net6.0/HBusbyMiniChallenge6.dll
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/bin/Debug/net6.0/HBusbyMiniChallenge6.pdb
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.csproj.AssemblyReference.cache
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.AssemblyInfoInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.AssemblyInfo.cs
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.csproj.CoreCompileInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.dll
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/refint/HBusbyMiniChallenge6.dll
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.pdb
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/HBusbyMiniChallenge6.genruntimeconfig.cache
+/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/BusbyHOddOrEven/obj/Debug/net6.0/ref/HBusbyMiniChallenge6.dll
